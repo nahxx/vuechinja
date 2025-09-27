@@ -1,24 +1,16 @@
-# vuechinja
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 💚vuechinja😋💚
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## 📌 개요
+#### 뷰친자가 되기 위한 연습용 프로젝트
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## 📌 History
+### ☑️ 2025-09-27
+    - vue3 프로젝트 생성
